@@ -1,14 +1,26 @@
 # zigzaga00
 
-### 🙇‍♂️ Welcome to my github!
+### 🙇‍♂️ welcome to my github
 
-This is a space for learning and developing. Please feel free to browse around and find something of interest to read about or work on - you will find notes, code and links to cyber security related content.
+this is a space for learning and developing - please feel free to browse around and find something of interest to read about or work on - you will find notes, code and explanations of (some) 😛 projects
 
-#### 🤠 Thank you for visiting!
+#### 🤠 thank you for visiting
 
 ---
 
-### :hammer_and_wrench: Languages and Tools I Use
+### :rocket: my github stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zigzaga00&theme=merko)](https://git.io/streak-stats)
+
+---
+
+### 🗨️ most used languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zigzaga00&layout=donut-vertical&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### :hammer_and_wrench: languages and tools
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40/>&nbsp;
@@ -26,9 +38,3 @@ This is a space for learning and developing. Please feel free to browse around a
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="windows" alt="windows" width="40" height="40"/>&nbsp;
 </div>
-
----
-
-### :rocket: My Github Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zigzaga00&theme=merko)](https://git.io/streak-stats)
