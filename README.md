@@ -1,10 +1,10 @@
 # zigzaga00
 
-### 🙇‍♂️ welcome to my github
+### 🙇‍♂️ welcome to my github 🙇‍♂️
 
 this is a space for learning and developing - please feel free to browse around and find something of interest to read about or work on - you will find notes, code and explanations of (some) 😛 projects
 
-#### 🤠 thank you for visiting
+#### 🤠 thank you for visiting 🤠
 
 ---
 
@@ -14,7 +14,7 @@ this is a space for learning and developing - please feel free to browse around 
 
 ---
 
-### 🗨️ most used languages
+### 🈸 most used languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zigzaga00&layout=donut-vertical&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
