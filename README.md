@@ -4,6 +4,8 @@
 
 this is a space for learning and developing - please feel free to browse around and find something of interest to read about or work on - you will find notes, code and explanations of (some) 😛 projects
 
+please visit [my website](https://zigzaga00.github.io) to see things in a different way
+
 #### 🤠 thank you for visiting 🤠
 
 ---
