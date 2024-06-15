@@ -6,7 +6,7 @@ this is a space for learning and developing - please feel free to browse around 
 
 please visit [my website](https://zigzaga00.github.io) to see things in a different way
 
-avatar generated using [hotpot.ai](https://hotpot.ai/art-generator)
+avatar generated using [hotpot.ai](https://hotpot.ai/logo-generator)
 
 #### 🤠 thank you for visiting 🤠
 
